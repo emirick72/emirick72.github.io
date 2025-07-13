@@ -1,14 +1,13 @@
+/*Header first div*/
+.home-banner {
+    text-align: center;
+}
+
 body {
     margin: 0;
-    text-align: left;
 
     /*Placeholder image for body background*/
     background-image: url('../Placeholder_Images/IMG_1768.PNG');
 
 
-}
-
-/*Header first div*/
-.home-banner {
-    text-align: center;
 }
