@@ -1,16 +1,12 @@
+/*HEADER STUFF GOES HERE*/
 /*Header first div*/
 .home-banner {
     text-align: center;
 }
 
-body {
-    margin: 0;
+/*--------------------------------------------------------------*/
 
-    /*Placeholder image for body background*/
-    /*background-image: url('../Placeholder_Images/IMG_1769.PNG');*/
-    background-color: white;
-}
-
+/*NAVBAR STUFF GOES HERE*/
 /*Navbar menu (base)*/
 .sidenav {
     height: 100%;
@@ -54,3 +50,14 @@ body {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}    
 }
+
+/*--------------------------------------------------------------*/
+/*BODY STUFF GOES HERE*/
+body {
+    margin: 0;
+
+    /*Placeholder color for body background*/
+    background-color: white;
+}
+
+/*--------------------------------------------------------------*/
