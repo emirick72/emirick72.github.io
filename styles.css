@@ -1,5 +1,7 @@
 body {
     margin: 0;
-    background: white;
     text-align: left;
+
+    /*Placeholder image for entire background of home page*/
+    background-image: url('Placeholder\ Images/IMG_1766.PNG');
 }
