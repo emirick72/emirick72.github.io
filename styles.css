@@ -3,5 +3,9 @@ body {
     text-align: left;
 
     /*Placeholder image for entire background of home page*/
-    background-image: url('Placeholder\ Images/IMG_1766.PNG');
+    background-image: url('../Placeholder_Images/IMG_1766.PNG');
+
+
+    /*Header first div*/
+
 }
